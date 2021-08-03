@@ -2,3 +2,9 @@
     list-style-type: none;
     padding: .5em;
 }
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
