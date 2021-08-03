@@ -64,31 +64,54 @@ button {
     bottom: 250px;
     left: 149px;
 }
+
 #life {
     background-image: url(./pic/background\ image\ 2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     color: white;
 }
 .wildlife {
     position: relative;
-    bottom: -60px;
+    bottom: -110px;
     left: 120px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
 }
+
 #paragraph2 {
     position: relative;
     left: 140px;
-    bottom: -100px;
+    bottom: -240px;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
 }
 #image4 {
     position: relative;
-    left: 900px;
-    bottom: 30px;
+    left: 640px;
+    bottom: 70px;
 }
 #image5 {
     position: relative;
-    left: 900px;
-    bottom: -20px;
+    left: 390px;
+    bottom: -220px;
+}
+#image6 {
+    position: relative;
+    left: 320px;
+    bottom: 30px;
+}
+#safari {
+    position: relative;
+    left: 432px;
+    top: 35px;
+}
+#image8 {
+    position: relative;
+    left: 546px;
+    top: 361px;
 }
