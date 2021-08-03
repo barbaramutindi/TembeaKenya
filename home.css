@@ -68,23 +68,22 @@ button {
 #life {
     background-image: url(./pic/background\ image\ 2.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: scroll;
     color: white;
 }
 .wildlife {
     position: relative;
-    bottom: -110px;
+    bottom: -140px;
     left: 120px;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 23px;
+    font-size: 60px;
 }
-
 #paragraph2 {
     position: relative;
     left: 140px;
-    bottom: -240px;
+    bottom: -200px;
     font-family: Averia Sans Libre;
     font-style: normal;
     font-weight: bold;
@@ -107,11 +106,42 @@ button {
 }
 #safari {
     position: relative;
-    left: 432px;
-    top: 35px;
+    text-align: center;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+#paragraph3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+#image7 {
+    position: relative;
+    left: 40px;
+    top: 0px;
 }
 #image8 {
     position: relative;
-    left: 546px;
-    top: 361px;
+    left: 130px;
+    top: -45px;
+}
+#image9 {
+    position: relative;
+    top: 10px;
+    left: 185px;
+    padding-bottom: 80px;
+}
+#footer {
+    background-color: #83FF57;
+}
+#footer1 {
+    position: relative;
+    top: 0px;
+    left: 40px;
 }
