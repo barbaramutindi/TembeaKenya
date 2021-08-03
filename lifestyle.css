@@ -13,3 +13,10 @@ ul {
     padding: 1em;
 
 }
+.main-section1 {
+    background-color: rgb(173, 132, 132);
+    border-collapse: collapse;
+    padding-bottom: 0.8em;
+    position: relative;
+    padding: .5em;
+}
