@@ -8,3 +8,8 @@ ul {
     justify-content: space-around;
     list-style-type: none;
 }
+.main-nav {
+    background-color: #B09F9F;
+    padding: 1em;
+
+}
