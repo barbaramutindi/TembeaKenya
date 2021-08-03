@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: Roboto;
 }
+.list {
+    display: flex;
+    justify-content: space-evenly;
+}
