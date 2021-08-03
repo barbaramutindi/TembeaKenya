@@ -29,3 +29,11 @@ ul {
     font-size: 2rem;
     text-align: center;
 }
+#pic1 {
+    position: relative;
+    width: 500px;
+    height: 320px;
+    left: 3px;
+    top: 0px;
+    padding-left: 1em;
+}
