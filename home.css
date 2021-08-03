@@ -1,10 +1,85 @@
-* {
+/*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: Roboto;
+}*/
+
+
+.header {
+    padding: 30px;
+    background-color: rgba(69, 180, 173, 1);
+    border-right: 0px;
 }
-.list {
+.header>ul {
     display: flex;
     justify-content: space-evenly;
+}
+.list {
+    text-decoration: none;
+    list-style: none;
+    width: none;
+}
+.section1 {
+    background-color: rgb(157, 231, 226);
+}
+div>#hotels {
+    position: relative;
+    padding-bottom: 90px;
+    padding-left: 50px;
+    left: 40px;
+    top: 80px;
+    font-size: 60px;
+    height: 200px;
+    width: 500px;
+}
+#image1 {
+    position: relative;
+    left: 620px;
+    bottom: 230px;
+}
+#image3 {
+    position: relative;
+    left: 40px;
+    bottom: 60px;
+}
+#image2 {
+    position: relative;
+    left: -60px;
+    bottom: 50px;
+    width: 300px;
+}
+.paragraph1 {
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+button {
+    position: relative;
+    height: 7vh;
+    width: 17vh;
+    border-radius: 15vh;
+    background-color: #9C69E2;
+    color: white;
+    font-size: 15px;
+    bottom: 250px;
+    left: 149px;
+}
+#life {
+    background-image: url(./pic/background\ image\ 2.jpg);
+    color: white;
+}
+.wildlife {
+    position: relative;
+    bottom: -10px;
+    left: 120px;
+}
+#image4 {
+    position: relative;
+    left: 700px;
+    bottom: 0px;
 }
