@@ -201,3 +201,14 @@ div>#descr {
     border-radius: 50px;
     color: white;
 }
+h3 {
+    color: rgb(77, 170, 77);
+}
+
+.content-footer {
+    background-color: #C4C4C4;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1em;
+
+}
