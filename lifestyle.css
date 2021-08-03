@@ -37,3 +37,62 @@ ul {
     top: 0px;
     padding-left: 1em;
 }
+#pic2 {
+    position: relative;
+    width: 510px;
+    height: 320px;
+
+}
+
+#pic3 {
+    position: relative;
+    width: 500px;
+    height: 320px;
+}
+
+.buttons-oneandtwo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.enquire-button {
+    padding: 1em;
+    text-align: center;
+    background-color: rgb(75, 22, 75);
+    font-size: 19px;
+    height: 60px;
+    width: 119px;
+    border-radius: 50px;
+    color: white;
+
+}
+
+.book-button {
+    padding: 1em;
+    background-color: rgb(75, 22, 75);
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 115px;
+    border-radius: 50px;
+
+}
+
+.main-section2 {
+    background-color: #B9E2D3;
+    padding: .5em;
+}
+
+.main-section2>h2>span:nth-child(1) {
+    color: #2D2BAE;
+    font-size: 28px;
+}
+
+.main-section2>h2>span:nth-child(2) {
+    color: #941111;
+    font-size: 28px;
+}
+
+.main-section2>h2 {
+font-size: 28px;
+}
