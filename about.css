@@ -35,7 +35,7 @@ h2{
 .girraffe{
     display: flex;
     position: relative;
-    left: 900px;
+    left: 700px;
     top: -200px;
 }
 #Know{
@@ -68,4 +68,14 @@ h2{
     text-decoration: none;
     left: 200px;
     position: relative;
+}
+#flight {
+    position: relative;
+    top: -30px;
+    right: -220px;
+}
+#best {
+    position: relative;
+    top: -30px;
+    right: -220px;
 }
