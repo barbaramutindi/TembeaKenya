@@ -79,3 +79,147 @@ h2{
     top: -30px;
     right: -220px;
 }
+#footer {
+    background-color: #83FF57;
+    margin-bottom: 830px;
+}
+#footer1 {
+    position: relative;
+    top: 0px;
+    left: 40px;
+    padding-top: 70px;
+}
+#tembea1 {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#tembea2 {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#tembea3 {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#footer2 {
+    position: relative;
+    top: -180px;
+    left: 380px;
+}
+#about1{
+    position: relative;
+    top: -160px;
+    left: 398px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#about2{
+    position: relative;
+    top: -160px;
+    left: 400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#about3 {
+    position: relative;
+    top: -150px;
+    left: 398px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#footer3 {
+    position: relative;
+    top: -355px;
+    left: 750px;
+}
+#help1 {
+    position: relative;
+    top: -335px;
+    left: 750px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#help2 {
+    position: relative;
+    top: -325px;
+    left: 750px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#help3 {
+    position: relative;
+    top: -315px;
+    left: 750px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#help4 {
+    position: relative;
+    top: -305px;
+    left: 750px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+#footer4 {
+    position: relative;
+    top: -570px;
+    left: 1050px;
+}
+#insta {
+    position: relative;
+    top: -580px;
+    left: 1020px;
+    height: 66px;
+}
+#facebook {
+    position: relative;
+    top: -560px;
+    left: 1080px;
+    height: 66px;
+}
+#twitter {
+    position: relative;
+    top: -560px;
+    left: 1110px;
+    height: 66px;
+}
+html, body {
+    width: 100%;
+    height:auto;
+    padding:0;
+    margin:0;
+    overflow-x: hidden;
+}
+.luggage{
+    position: relative;
+    right: -100px;
+}

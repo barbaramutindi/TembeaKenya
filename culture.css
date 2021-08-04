@@ -1,0 +1,211 @@
+
+
+.image {
+	background-image: url(https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+	height: 250px;
+}
+
+.header {
+	padding-top: 50px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+/*.content-head {
+    background-color: rgb(232, 232, 243);
+    padding: 3rem;
+    
+}*/
+
+#contents {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    }
+   
+.sec2 { background-color: beige;
+    padding: 2em;
+    height: 600px;
+    border-radius: 3%;
+
+   }
+
+   #image2 {position: relative;
+       background-image: url(https://cdn.britannica.com/05/67805-050-F5609894/Lake-Nakuru-flamingos-Kenya-numbers-waters.jpg);
+   }
+
+#pic1 {
+    position: relative;
+    /* height: ;
+    width: ; */
+    top: 10px;
+    left: 600px;
+}
+#pic2 {
+    position: relative;
+    height: 320px;
+    /* width: ; */
+    top: 10px;
+    right: -600px;
+}
+
+.sec3 {
+    background-color: rgb(196, 196, 96);
+    padding: 2em;
+    border-radius: 3%;
+    height: 800px;
+}
+
+#pic3 {position: relative;
+top: 0px;
+left: 1000px ;
+
+}
+
+#pic4 { position: relative;
+    top: 0px;
+    left:207px;
+  height: 265px;
+  width: 380px;
+}
+
+.sec4 {
+    background-color: rgb(228, 228, 163);
+    padding: 2em;
+    border-radius: 5%;
+    height: 1250px;
+}
+
+#pic5 {
+    position: relative;
+    top:5px;
+    left: 500px;
+    height: 300px;
+}
+#pic6 {
+    position: relative;
+    top: 0px;
+    left: 500px;
+    height: 300px;
+}
+
+.sec5 {
+    background-color: rgb(228, 196, 196);
+    padding: 1em;
+    border-radius: 10px;
+    height: 1280px;
+}
+#pic7 {
+position: relative;
+top: 0px;
+left:1000px;
+}
+
+#pic8 {
+    position: relative;
+    top:0px;
+    left: 1000px;
+}
+
+.content-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+div>.feedback {
+    list-style-type: none;
+}
+
+/*div>#descr-entertainment {
+    position: relative;
+    height: 100px;
+    width: 10px;
+    top: 100px;
+    left: 70px;
+ background:  darkgoldenrod;
+ padding: 3em;
+ text-align: center;
+}*/
+
+div>#descr-lang {
+    position: relative;
+    height: 200px;
+    width: 300px;
+    top: -300px;
+    left: 150px;
+    padding: 2em;
+    background-color: darkgoldenrod;
+    text-align: center;
+    border-radius: 40%;
+}
+
+div>#descr-culture {
+    position: relative;
+    height: 200px;
+    width: 300px;
+    top: -300px;
+    left: 30px;
+    background-color:  darkgoldenrod;
+    padding: 3em;
+    text-align: center;
+    border-radius: 40%;
+}
+div>#descr-dance {
+    position: relative;
+    height: 200px;
+    width: 300px;
+    top: -300px;
+    left: 30px;
+    background-color:  darkgoldenrod;
+    padding: 3em;
+    text-align: center;
+    border-radius: 40%;
+}
+
+div>#descr-music {
+    position: relative;
+    height: 200px;
+    width: 300px;
+    top: -300px;
+    left: 30px;
+    background-color:  darkgoldenrod;
+    padding: 3em;
+    text-align: center;
+    border-radius: 40%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1em; 
+  }
+
+  table{position: relative;}
+  
+  
+
+  H2 { 
+      font-size: xx-large;
+      color: cadetblue;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  h3{
+  color: rgb(167, 127, 204);
+  }
+
+  p { color: rgb(92, 5, 19);
+    font-size: 20px;
+}
+div>.ent {
+    color: yellow;
+    font-size: x-large;
+}
+
+.buttn {
+    height: 50px;
+    width: 80px;
+    border-radius: 30%;
+}
