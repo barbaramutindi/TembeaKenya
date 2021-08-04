@@ -8,3 +8,9 @@ header{
     position: relative;
     z-index: 1;
 }
+
+header ul{
+    position: relative;
+    display: flex;
+}
+
