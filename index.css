@@ -1,0 +1,94 @@
+header{
+    align-items: center;
+    justify-content: space-between;
+    /* display: flex; */
+    /* padding: 20px 100px; */
+    width: auto;
+    padding-top: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+header ul{
+    position: relative;
+    display: flex;
+}
+
+header ul li{
+    list-style: none;
+}
+
+header ul li a{
+    display: inline-block;
+    color: #333;
+    font-weight: 500;
+    margin-left: 50px;
+    text-decoration: none;
+}
+h1{
+    font-weight: 400;
+    font-size: 300%;
+}
+h2{
+    font-weight: 500;
+}
+.girraffe{
+    display: flex;
+    position: relative;
+    left: 700px;
+    top: -200px;
+}
+#Know{
+    text-decoration: none;
+    color: black;
+    list-style-position: none;
+    position: relative;
+    left: 200px;
+}
+#Learn{
+    text-decoration: none;
+
+}
+#travel{
+    left: 200px;
+    position: relative;
+}
+#tourism{
+    left: 200px;
+    position: relative;
+}
+#Learn{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: purple;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    left: 200px;
+    position: relative;
+}
+#flight {
+    position: relative;
+    top: -30px;
+    right: -220px;
+}
+#best {
+    position: relative;
+    top: -30px;
+    right: -220px;
+}
+#footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #83FF57;
+}
+
+html, body {
+    width: 100%;
+    height:auto;
+    padding:0;
+    margin:0;
+    overflow-x: hidden;
+}
