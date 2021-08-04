@@ -34,5 +34,38 @@ h2{
 }
 .girraffe{
     display: flex;
-    float: right;
+    position: relative;
+    left: 900px;
+    top: -200px;
+}
+#Know{
+    text-decoration: none;
+    color: black;
+    list-style-position: none;
+    position: relative;
+    left: 200px;
+}
+#Learn{
+    text-decoration: none;
+
+}
+#travel{
+    left: 200px;
+    position: relative;
+}
+#tourism{
+    left: 200px;
+    position: relative;
+}
+#Learn{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: purple;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 600;
+    text-decoration: none;
+    left: 200px;
+    position: relative;
 }
