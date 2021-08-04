@@ -1,8 +1,10 @@
 # TembeaKenya
 ## Author  
   
-[Barbara Mutindi](https://github.com/barbaramutindi)  
-  
+[Barbara Mutindi](https://github.com/barbaramutindi)
+
+
+
 # Description 
 This is a tourist agency website that helps tourists navigate easily to places they want to visit. 
 
