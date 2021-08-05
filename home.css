@@ -1,0 +1,145 @@
+*{
+    font-family: Roboto;
+}
+.header {
+    padding: 30px;
+    background-color: rgba(69, 180, 173, 1);
+    border-right: 0px;
+}
+.header>ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+.list {
+    text-decoration: none;
+    list-style: none;
+}
+.section1 {
+    background-color: rgb(157, 231, 226);
+}
+div>#hotels {
+    position: relative;
+    padding-bottom: 90px;
+    padding-left: 50px;
+    left: 40px;
+    top: 80px;
+    font-size: 60px;
+    height: 200px;
+    width: 500px;
+}
+#image1 {
+    position: relative;
+    right: -620px;
+    bottom: 230px;
+}
+#image3 {
+    position: relative;
+    left: 40px;
+    bottom: 60px;
+}
+#image2 {
+    position: relative;
+    right: 60px;
+    bottom: 50px;
+    width: 300px;
+}
+#paragraph1 {
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+button {
+    position: relative;
+    height: 7vh;
+    width: 120px;
+    border-radius: 15vh;
+    background-color: #9C69E2;
+    color: white;
+    font-size: 15px;
+    bottom: 250px;
+    left: 149px;
+}
+
+#life {
+    background-image: url(./pic/background\ image\ 2.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    color: white;
+}
+.wildlife {
+    position: relative;
+    bottom: -140px;
+    left: 120px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+}
+#paragraph2 {
+    position: relative;
+    left: 140px;
+    bottom: -200px;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+#image4 {
+    position: relative;
+    left: 640px;
+    bottom: 70px;
+}
+#image5 {
+    position: relative;
+    left: 390px;
+    bottom: -220px;
+}
+#image6 {
+    position: relative;
+    left: 320px;
+    bottom: 30px;
+}
+#safari {
+    position: relative;
+    text-align: center;
+    font-family: Averia Sans Libre;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+#paragraph3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+#image7 {
+    position: relative;
+    left: 40px;
+    top: 0px;
+}
+#image8 {
+    position: relative;
+    left: 130px;
+    top: -45px;
+}
+#image9 {
+    position: relative;
+    top: 10px;
+    left: 185px;
+    padding-bottom: 80px;
+}
+.content-footer {
+    background-color:  #83FF57;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1em;
+}
