@@ -79,6 +79,7 @@ h2{
     top: -30px;
     right: -220px;
 }
+ /*
 #footer {
     background-color: #83FF57;
     margin-bottom: 830px;
@@ -211,6 +212,13 @@ h2{
     top: -560px;
     left: 1110px;
     height: 66px;
+}
+*/
+.content-footer {
+    background-color:  #83FF57;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1em;
 }
 html, body {
     width: 100%;
